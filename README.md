@@ -3,6 +3,8 @@
 
 SDK Generator for all Unreal Engine games. Supported versions are all of UE4 and UE5.
 
+[Download This Dumper](https://github.com/RiritoNinigaya/Dumper-7/actions/runs/7860812805/artifacts/1236358797)
+
 ## How to use
 
 - Compile the dll in x64-Release
